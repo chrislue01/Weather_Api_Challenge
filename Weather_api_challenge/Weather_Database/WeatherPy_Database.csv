@@ -1,0 +1,11 @@
+City_ID,City,Country,Date,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description,Rain inches (last 3 hrs),Snow inches (last 3 hrs)
+0,vernon,CA,2022-05-27 04:14:07,50.2581,-119.2691,65.23,58,100,5.39,overcast clouds,0.0,0
+1,gondanglegi,ID,2022-05-27 04:14:07,-7.7479,112.0132,84.88,66,96,2.3,overcast clouds,0.0,0
+2,shelburne,CA,2022-05-27 04:11:47,44.0787,-80.2041,65.75,86,100,12.71,overcast clouds,0.0,0
+3,port lincoln,AU,2022-05-27 04:13:30,-34.7333,135.8667,60.37,53,67,12.59,broken clouds,0.0,0
+4,rikitea,PF,2022-05-27 04:14:08,-23.1203,-134.9692,77.0,76,24,14.0,light rain,0.0,0
+5,cherskiy,RU,2022-05-27 04:14:08,68.75,161.3,41.4,49,86,20.71,overcast clouds,0.0,0
+6,ushuaia,AR,2022-05-27 04:11:23,-54.8,-68.3,33.46,86,100,26.46,light snow,0.0,0
+7,georgetown,MY,2022-05-27 04:14:09,5.4112,100.3354,89.53,66,20,6.91,few clouds,0.0,0
+8,lagoa,PT,2022-05-27 04:14:09,39.05,-27.9833,62.31,85,70,20.38,broken clouds,0.0,0
+9,manjacaze,MZ,2022-05-27 04:09:21,-24.7117,33.8828,64.11,96,7,2.01,clear sky,0.0,0
